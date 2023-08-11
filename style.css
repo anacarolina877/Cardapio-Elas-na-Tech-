@@ -1,0 +1,18 @@
+body{ 
+   font: 20px/1.5 Arial, Helvetica,sans-serif; 
+   background-color:#7FFFD4; 
+   } 
+  
+ /* Header **/ 
+ header{ 
+   background:pink; 
+   color:black; 
+   padding-top:8px; 
+   min-height:70px; 
+   border-bottom:#e8491d 5px solid; 
+ } 
+  
+  
+ #newsletter form { 
+   color:white 
+ }
